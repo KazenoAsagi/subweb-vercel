@@ -11,3 +11,16 @@
 8. 如有更多修改或不想使用环境变量的方式进行设置,请自行修改`public/conf/config.js`文件.
 
 **其他更多信息请查看`main`分支**
+
+### 规则
+- ClashCustomRule地址：https://github.com/chinnsenn/ClashCustomRule
+- 我的规则地址：https://raw.githubusercontent.com/KazenoAsagi/ClashCustomRule/master/my_remote_config
+
+### 后端
+- sub-converter地址： https://github.com/tindy2013/subconverter/
+- 本地后端地址：http://127.0.0.1:25500
+
+### 前端
+- web地址：https://github.com/CareyWang/sub-web
+- web-vercel地址：https://github.com/stilleshan/subweb
+- vercel地址：https://vercel.com/
